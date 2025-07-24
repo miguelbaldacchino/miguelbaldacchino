@@ -23,16 +23,16 @@
 - 🧠 **ML & Optimisation** – k-Means, k-NN, Genetic Algo keyboard evolution.
 - 🔉 **Phoneme Classifier** – k-NN + formant analysis.
 - 🎮 **Game Jams** – Uni of Malta & Brackey’s (Unity/C#).
-- 
+  
 ---
 
 
 ## 💻 Tech Stack
 
-**Languages**: Python, C#, C++, Java, R, SQL, Prolog  
-**Tools**: Git, Visual Studio, VS Code, Jupyter, Unity  
-**Web**: HTML & CSS  
-**Languages**: Fluent in English & Maltese
+🐍 **Languages**: Python, C#, C++, Java, R, SQL, Prolog  
+🛠️ **Tools**: Git, Visual Studio, VS Code, Jupyter, Unity  
+🌐 **Web**: HTML & CSS  
+🗣️ **Languages**: Fluent in English & Maltese
 
 ---
 
