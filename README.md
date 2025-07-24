@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Miguel Baldacchino
 
-🎓 2nd‑year B.Sc. (Hons) in Language Technology & Artificial Intelligence — entering my final year
+🎓 2nd‑year B.Sc. (Hons) Artificial Intelligence — entering my final year
 
 ---
 
