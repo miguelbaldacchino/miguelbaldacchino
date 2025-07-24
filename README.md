@@ -4,15 +4,6 @@
 
 ---
 
-## 🔍 What I'm About
-
-- 🧠 **Artificial Intelligence** – real-world applications in vision, language, and optimisation.
-- 🎮 **Game Development** – Unity + C# to create interactive games for jams.
-- 🧰 **Low-Level Engineering** – compilers, optimisation, and low-level logic.
-- 🚌 **Thesis – Dynamic Bus Routing** – currently developing adaptive algorithms for on-demand public transportation using real-time data and optimisation strategies.
-
----
-
 ## 🧪 Notable Projects
 
 - 📹 **3D Scene Reconstruction** – SfM, RANSAC, triangulation.
@@ -23,7 +14,8 @@
 - 🧠 **ML & Optimisation** – k-Means, k-NN, Genetic Algo keyboard evolution.
 - 🔉 **Phoneme Classifier** – k-NN + formant analysis.
 - 🎮 **Game Jams** – Uni of Malta & Brackey’s (Unity/C#).
-  
+- 🚌 **Thesis – Dynamic Bus Routing** – currently developing adaptive algorithms for on-demand public transportation using real-time data and optimisation strategies.
+
 ---
 
 
