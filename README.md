@@ -2,7 +2,7 @@
 
 AI undergrad (final year) at the University of Malta.
 
-🚗 Currently working on dynamic on-demand bus routing for my thesis.
+🚗 Currently working on dynamic bus routing for on-demand public transportation for my thesis.
 
 🎮 Into game dev, optimization, ML & RL, and little side projects.
 
